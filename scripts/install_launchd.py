@@ -7,8 +7,8 @@ import argparse
 import os
 from pathlib import Path
 import plistlib
+import shlex
 import subprocess
-import sys
 
 
 REPO_DIR = Path(__file__).resolve().parents[1]
@@ -28,13 +28,21 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     LOG_DIR.mkdir(parents=True, exist_ok=True)
+    shell_command = (
+        f"cd {shlex.quote(str(REPO_DIR))} && "
+        "/usr/bin/python3 scripts/update_and_commit.py "
+        f">> {shlex.quote(str(LOG_DIR / 'launchd-update.log'))} "
+        f"2>> {shlex.quote(str(LOG_DIR / 'launchd-update.err.log'))}"
+    )
+    apple_script = 'do shell script "' + shell_command.replace("\\", "\\\\").replace('"', '\\"') + '"'
     plist = {
         "Label": LABEL,
         "ProgramArguments": [
-            sys.executable,
-            str(REPO_DIR / "scripts" / "update_and_commit.py"),
+            "/usr/bin/osascript",
+            "-e",
+            apple_script,
         ],
-        "WorkingDirectory": str(REPO_DIR),
+        "WorkingDirectory": "/tmp",
         "StartCalendarInterval": {"Hour": args.hour, "Minute": args.minute},
         "StandardOutPath": str(LOG_DIR / "launchd-update.log"),
         "StandardErrorPath": str(LOG_DIR / "launchd-update.err.log"),
@@ -57,4 +65,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

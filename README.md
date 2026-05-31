@@ -44,6 +44,8 @@ The job runs `scripts/update_and_commit.py`, which:
 
 Logs are written to `logs/`.
 
+The installer uses an AppleScript shell wrapper so the job can run even when the repository lives under macOS-protected folders such as `Documents`.
+
 Uninstall:
 
 ```bash
@@ -57,4 +59,3 @@ This is public-post research, not a verified brokerage ledger. Phrase conclusion
 ## License
 
 MIT
-
