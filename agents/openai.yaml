@@ -1,0 +1,4 @@
+interface:
+  display_name: "ValueGe Investing"
+  short_description: "Analyze ValueGe Longbridge posts"
+  default_prompt: "Use $valuege-investing to summarize ValueGe public Longbridge evidence for TSLA."

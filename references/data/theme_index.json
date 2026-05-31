@@ -1,0 +1,1926 @@
+{
+  "longcall": {
+    "label": "longcall / 买 call",
+    "pattern": "long\\s*call|longcall|买.*call|call",
+    "match_count": 450,
+    "evidence_count": 311,
+    "level_counts": {
+      "A": 190,
+      "B": 27,
+      "C": 94,
+      "D": 9,
+      "U": 130
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-29",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "MSFT"
+        ],
+        "topic_id": "41273421",
+        "summary": "冰火两重天啊 分批出点 $微软(MSFT.US)longcall 补点 $伯克希尔哈撒韦-B(BRK.B.US)longcall",
+        "url": "https://longbridge.com/zh-CN/topics/41273421"
+      },
+      {
+        "date": "2026-05-22",
+        "level": "A",
+        "symbols": [
+          "SpaceX",
+          "TSLA"
+        ],
+        "topic_id": "41010686",
+        "summary": "有铁子问：SpaceX IPO 会对 $TSLA 有影响吗？说实话我不知道，股市这东西短期判断不来但是我知道的是：特斯拉持有 18,990,19...",
+        "url": "https://longbridge.com/zh-CN/topics/41010686"
+      },
+      {
+        "date": "2026-05-15",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "40832966",
+        "summary": "$AAPL 280的longcall玩了两波 今天清了剩余的longcall  话说longcall应对中短期波动还是不错的😂",
+        "url": "https://longbridge.com/zh-CN/topics/40832966"
+      },
+      {
+        "date": "2026-05-12",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "40681338",
+        "summary": "$苹果(AAPL.US)继续出点longcall 收现金💰提高一下现金流",
+        "url": "https://longbridge.com/zh-CN/topics/40681338"
+      },
+      {
+        "date": "2026-05-10",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "40600940",
+        "summary": "$TSLA 最后一辆ModelS下线，说一下自己的感想： 我对马一龙放弃Model S、Model X 的决定很佩服 如果我是CEO估计很难下这...",
+        "url": "https://longbridge.com/zh-CN/topics/40600940"
+      },
+      {
+        "date": "2026-05-09",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "40592849",
+        "summary": "最近的操作策略就是 新高了就分批出longcall 收现金模式 提高自由现金流",
+        "url": "https://longbridge.com/zh-CN/topics/40592849"
+      },
+      {
+        "date": "2026-05-01",
+        "level": "A",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "40349043",
+        "summary": "本周四大科技股作业都交完了 接下来就是期待5月2号 $伯克希尔哈撒韦-B(BRK.B.US)股东大会阿贝尔的表现了 我相信巴老爷子不会看走眼 布...",
+        "url": "https://longbridge.com/zh-CN/topics/40349043"
+      },
+      {
+        "date": "2026-05-01",
+        "level": "A",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "40344142",
+        "summary": "$微软(MSFT.US)昨晚布局了一点正股和 明年1月份450 longcall 分批一点点来",
+        "url": "https://longbridge.com/zh-CN/topics/40344142"
+      },
+      {
+        "date": "2026-04-28",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "40254552",
+        "summary": "昨晚 $GOOG 摸到新搞 这波longcall也赚了不少了 手里多的可分批出点降低成本 不堵财报",
+        "url": "https://longbridge.com/zh-CN/topics/40254552"
+      },
+      {
+        "date": "2026-04-27",
+        "level": "A",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "40225930",
+        "summary": "$伯克希尔哈撒韦-B(BRK.B.US)加了点longcall，",
+        "url": "https://longbridge.com/zh-CN/topics/40225930"
+      },
+      {
+        "date": "2026-04-26",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT"
+        ],
+        "topic_id": "40201806",
+        "summary": "下周 $AMZN $GOOG 和 $MSFT 财报： 1、 $AMZN 和 $GOOG 都是我的核心持股 正股➕longcall 我不太担心啥，...",
+        "url": "https://longbridge.com/zh-CN/topics/40201806"
+      },
+      {
+        "date": "2026-04-24",
+        "level": "C",
+        "symbols": [
+          "AMZN",
+          "MSFT",
+          "TSLA"
+        ],
+        "topic_id": "40153915",
+        "summary": "$亚马逊(AMZN.US)longcall都是负成本了 后续让利润继续跑 希望$特斯拉(TSLA.US)和$微软(MSFT.US)能给机会布局l...",
+        "url": "https://longbridge.com/zh-CN/topics/40153915"
+      },
+      {
+        "date": "2026-04-20",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "TSLA"
+        ],
+        "topic_id": "40028306",
+        "summary": "霍尔木兹海峡再次关闭 运气好的是上周五出了一些 $AAPL 和 $AMZN 的longcall 搞回来了点现金流 话说本周 $TSLA 财报，看...",
+        "url": "https://longbridge.com/zh-CN/topics/40028306"
+      },
+      {
+        "date": "2026-04-19",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "40022819",
+        "summary": "满仓主义者的好处就是： 个别股会有踏空没布局上longcall 但整体上不会踏空 不过跌的时候也跟着大盘一起跌📉 这两年重点思考的是如何减少回撤...",
+        "url": "https://longbridge.com/zh-CN/topics/40022819"
+      },
+      {
+        "date": "2026-04-17",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "MSFT"
+        ],
+        "topic_id": "40005466",
+        "summary": "出了点 $亚马逊(AMZN.US)和 $苹果(AAPL.US)的longcall 把买$微软(MSFT.US)的资金整出来",
+        "url": "https://longbridge.com/zh-CN/topics/40005466"
+      },
+      {
+        "date": "2026-04-16",
+        "level": "B",
+        "symbols": [
+          "AAPL",
+          "TSLA"
+        ],
+        "topic_id": "39949559",
+        "summary": "$苹果(AAPL.US)还是稳👍 看来今年错过了$特斯拉(TSLA.US)布局longcall的机会 没机会就算了，正股在也不错😂 知足常乐！",
+        "url": "https://longbridge.com/zh-CN/topics/39949559"
+      },
+      {
+        "date": "2026-04-15",
+        "level": "C",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "39938946",
+        "summary": "$苹果(AAPL.US)布局的longcall终于开始赚钱了😂 铁子们晚安😴",
+        "url": "https://longbridge.com/zh-CN/topics/39938946"
+      },
+      {
+        "date": "2026-04-11",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "39849298",
+        "summary": "我是个满仓主义者 长期保持在 9 成仓左右 今年这波回撤两个仓在 15% 左右 比前两年好不少 继续磨练完善自己的投资策略或者叫体系💪 长短结合...",
+        "url": "https://longbridge.com/zh-CN/topics/39849298"
+      },
+      {
+        "date": "2026-04-10",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "AMZU"
+        ],
+        "topic_id": "39818437",
+        "summary": "针对longcall 和以前一样 时间近和价高的可以分批出了 具体自己拿捏",
+        "url": "https://longbridge.com/zh-CN/topics/39818437"
+      },
+      {
+        "date": "2026-04-08",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "39756942",
+        "summary": "昨晚布局了 $苹果(AAPL.US)的longcall 只是觉得它不应该因为折叠屏推后发布就跌那么多🤔",
+        "url": "https://longbridge.com/zh-CN/topics/39756942"
+      }
+    ]
+  },
+  "put": {
+    "label": "put / 卖 put",
+    "pattern": "\\bput\\b|PUT|卖.*put|卖put",
+    "match_count": 110,
+    "evidence_count": 77,
+    "level_counts": {
+      "A": 53,
+      "B": 8,
+      "C": 16,
+      "D": 2,
+      "U": 31
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-01-03",
+        "level": "A",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "37516163",
+        "summary": "$NVO 270115 55 Call(NVO270115C55000.US)昨晚建的longcall观察仓 也卖了明年的50put收点现金 还...",
+        "url": "https://longbridge.com/zh-CN/topics/37516163"
+      },
+      {
+        "date": "2025-12-23",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "37321824",
+        "summary": "昨晚继续卖了点$谷歌-C(GOOG.US)290的put，收点现金💰",
+        "url": "https://longbridge.com/zh-CN/topics/37321824"
+      },
+      {
+        "date": "2025-12-20",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "37280321",
+        "summary": "这四巫日确实提前了两天 昨晚没啥好机会 卖了点 $GOOG 27年1月份的290put收了点现金 290-30.9= 不多260的价格 到时有人...",
+        "url": "https://longbridge.com/zh-CN/topics/37280321"
+      },
+      {
+        "date": "2025-12-18",
+        "level": "A",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "37219386",
+        "summary": "正股和sell put安心拿着 日期近的longcall都出完了 最近就布局了点 $AMZN 一年后的longcall和sell put 不能急...",
+        "url": "https://longbridge.com/zh-CN/topics/37219386"
+      },
+      {
+        "date": "2025-12-04",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "GOOG"
+        ],
+        "topic_id": "36894404",
+        "summary": "讲一下我的思考： 1、最近 $AMZN 的一系列动作，和 $GOOG 云互通、芯片Trainium 3 都是长期利好的 2、云➕ AI 我一直看...",
+        "url": "https://longbridge.com/zh-CN/topics/36894404"
+      },
+      {
+        "date": "2025-12-03",
+        "level": "A",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "36886389",
+        "summary": "$亚马逊(AMZN.US)竟然还跌啦，好吧 卖了10张明年年底230的put收点现金 顺便买5张27年1月份250的call 整体上没出啥钱，占...",
+        "url": "https://longbridge.com/zh-CN/topics/36886389"
+      },
+      {
+        "date": "2025-12-02",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "36837862",
+        "summary": "有铁子说最近你操作少了，都在等着新布局。。。 说一下我的思考： 1、没有绝佳的机会（大跌）不布局 longcall 这是大的原则 2、最近科技股...",
+        "url": "https://longbridge.com/zh-CN/topics/36837862"
+      },
+      {
+        "date": "2025-11-13",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "36297484",
+        "summary": "昨晚 $TSLA 这两个sell put还是没接到货 有点浪费机会，昨天有铁子是sell 420的put都接到货了。。。",
+        "url": "https://longbridge.com/zh-CN/topics/36297484"
+      },
+      {
+        "date": "2025-11-12",
+        "level": "A",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "36254713",
+        "summary": "昨晚 $TSLA 分别卖了本周和下周一张430的put 看看能否接到货，纯属玩，",
+        "url": "https://longbridge.com/zh-CN/topics/36254713"
+      },
+      {
+        "date": "2025-11-07",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "KO"
+        ],
+        "topic_id": "36138484",
+        "summary": "前几天一直在说了 出了科技股的longcall，留正股➕sell put，躺平模式 整体局势没定 防守股 $伯克希尔哈撒韦-B(BRK.B.US...",
+        "url": "https://longbridge.com/zh-CN/topics/36138484"
+      },
+      {
+        "date": "2025-11-05",
+        "level": "B",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "BRK.B",
+          "GOOG",
+          "KO",
+          "TSLA",
+          "TSM"
+        ],
+        "topic_id": "36009249",
+        "summary": "喝一杯☕️，更新一下： $亚马逊(AMZN.US)longcall出完，所以科技股 $苹果(AAPL.US)$特斯拉(TSLA.US)$谷歌-C...",
+        "url": "https://longbridge.com/zh-CN/topics/36009249"
+      },
+      {
+        "date": "2025-11-04",
+        "level": "A",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "35985197",
+        "summary": "$亚马逊(AMZN.US)把longcall都清了，只剩下正股和sell put了",
+        "url": "https://longbridge.com/zh-CN/topics/35985197"
+      },
+      {
+        "date": "2025-11-04",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "BRK.B",
+          "GOOG",
+          "KO",
+          "TSLA",
+          "TSM"
+        ],
+        "topic_id": "35954443",
+        "summary": "喝一杯☕️思考一下🤔 科技股 $AAPL $TSM $GOOG $TSLA 只有正股+sell put 了 $AMZN 正股 +sell put...",
+        "url": "https://longbridge.com/zh-CN/topics/35954443"
+      },
+      {
+        "date": "2025-10-30",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "35777274",
+        "summary": "找出来以前布局 $GOOG 的思考，继续更新一下：1、现在可以说 $GOOG 的 AI 开始发力了，从搜索到广告业务2、从这次财报展现了这家公司...",
+        "url": "https://longbridge.com/zh-CN/topics/35777274"
+      },
+      {
+        "date": "2025-09-11",
+        "level": "B",
+        "symbols": [
+          "03690",
+          "09988",
+          "3690",
+          "83690",
+          "89988",
+          "9988",
+          "BABA",
+          "HBBD",
+          "HMTD",
+          "MPNGY"
+        ],
+        "topic_id": "33898748",
+        "summary": "这两年出门打车基本就是高德高德找吃的 -》打车去 -》吃完打车回家上次去贵州玩导航用高德，找酒店也用的高德如果整个模式玩闭环了确实对美团打击挺大...",
+        "url": "https://longbridge.com/zh-CN/topics/33898748"
+      },
+      {
+        "date": "2025-09-08",
+        "level": "B",
+        "symbols": [
+          "BABA"
+        ],
+        "topic_id": "33737671",
+        "summary": "$阿里巴巴(BABA.US)的longcall出完了，剩下的sell put慢慢拿着",
+        "url": "https://longbridge.com/zh-CN/topics/33737671"
+      },
+      {
+        "date": "2025-09-05",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "33660425",
+        "summary": "昨晚对 $GOOG sell put有个骚操作，记录一下： 昨晚开盘后看 $GOOG 跌了点，看了一下年初卖的200put获利也接近90%，果断...",
+        "url": "https://longbridge.com/zh-CN/topics/33660425"
+      },
+      {
+        "date": "2025-08-28",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "33429378",
+        "summary": "今天忽然想明白了，我的正股 +longcall+sell put 策略可以继续完善一下：1、大跌加入正股 +longcall 和 sell pu...",
+        "url": "https://longbridge.com/zh-CN/topics/33429378"
+      },
+      {
+        "date": "2025-08-20",
+        "level": "C",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "33170945",
+        "summary": "$谷歌-C(GOOG.US)把180call都先出了，剩下点sell put",
+        "url": "https://longbridge.com/zh-CN/topics/33170945"
+      },
+      {
+        "date": "2025-08-17",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "33046120",
+        "summary": "sell put一定要管住手，这个布局分享一下我的思路： 1、不能卖太多，须做好能接货的准备，就是资金要足 2、时间跨度可以拉开，如果你要接货不...",
+        "url": "https://longbridge.com/zh-CN/topics/33046120"
+      }
+    ]
+  },
+  "core_holdings": {
+    "label": "核心持仓 / 正股",
+    "pattern": "核心持仓|核心持股|正股|非卖品|不会动|不动.*持仓",
+    "match_count": 132,
+    "evidence_count": 132,
+    "level_counts": {
+      "A": 58,
+      "B": 67,
+      "C": 7,
+      "D": 0,
+      "U": 0
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-22",
+        "level": "A",
+        "symbols": [
+          "SpaceX",
+          "TSLA"
+        ],
+        "topic_id": "41010686",
+        "summary": "有铁子问：SpaceX IPO 会对 $TSLA 有影响吗？说实话我不知道，股市这东西短期判断不来但是我知道的是：特斯拉持有 18,990,19...",
+        "url": "https://longbridge.com/zh-CN/topics/41010686"
+      },
+      {
+        "date": "2026-05-10",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "40600940",
+        "summary": "$TSLA 最后一辆ModelS下线，说一下自己的感想： 我对马一龙放弃Model S、Model X 的决定很佩服 如果我是CEO估计很难下这...",
+        "url": "https://longbridge.com/zh-CN/topics/40600940"
+      },
+      {
+        "date": "2026-05-08",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "MSFT",
+          "NVDA",
+          "TSLA"
+        ],
+        "topic_id": "40554860",
+        "summary": "2026年至今美股“七姐妹”涨跌排名： 1、 $GOOG ：+22.44% 2、 $AMZN ：+17.86% 3、 $NVDA ：+6.42%...",
+        "url": "https://longbridge.com/zh-CN/topics/40554860"
+      },
+      {
+        "date": "2026-05-05",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "40411006",
+        "summary": "$诺和诺德公司(NVO.US)这货最近慢慢起来了 正股打算长持 拿了一波股息感觉还行😂",
+        "url": "https://longbridge.com/zh-CN/topics/40411006"
+      },
+      {
+        "date": "2026-05-01",
+        "level": "A",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "40344142",
+        "summary": "$微软(MSFT.US)昨晚布局了一点正股和 明年1月份450 longcall 分批一点点来",
+        "url": "https://longbridge.com/zh-CN/topics/40344142"
+      },
+      {
+        "date": "2026-04-30",
+        "level": "B",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "40312136",
+        "summary": "有个铁子刚说不敢想一年不到谷歌翻倍了 去看了一下我的持股 还真是 $GOOG 正股都翻倍了😂 恭喜各位铁子们！五一假期快乐🎉",
+        "url": "https://longbridge.com/zh-CN/topics/40312136"
+      },
+      {
+        "date": "2026-04-26",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT"
+        ],
+        "topic_id": "40201806",
+        "summary": "下周 $AMZN $GOOG 和 $MSFT 财报： 1、 $AMZN 和 $GOOG 都是我的核心持股 正股➕longcall 我不太担心啥，...",
+        "url": "https://longbridge.com/zh-CN/topics/40201806"
+      },
+      {
+        "date": "2026-04-16",
+        "level": "B",
+        "symbols": [
+          "AAPL",
+          "TSLA"
+        ],
+        "topic_id": "39949559",
+        "summary": "$苹果(AAPL.US)还是稳👍 看来今年错过了$特斯拉(TSLA.US)布局longcall的机会 没机会就算了，正股在也不错😂 知足常乐！",
+        "url": "https://longbridge.com/zh-CN/topics/39949559"
+      },
+      {
+        "date": "2026-04-11",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "39849298",
+        "summary": "我是个满仓主义者 长期保持在 9 成仓左右 今年这波回撤两个仓在 15% 左右 比前两年好不少 继续磨练完善自己的投资策略或者叫体系💪 长短结合...",
+        "url": "https://longbridge.com/zh-CN/topics/39849298"
+      },
+      {
+        "date": "2026-04-10",
+        "level": "B",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "39818262",
+        "summary": "$亚马逊(AMZN.US)正股搞不来波段 长期看好 和时间做朋友就好🤔",
+        "url": "https://longbridge.com/zh-CN/topics/39818262"
+      },
+      {
+        "date": "2026-03-21",
+        "level": "A",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "39422766",
+        "summary": "本周加了点 $BRKB longcall 最近波动还是局势影响，手里有大把现金，也比较看好阿贝尔！ 现在手里 $BRKB 正股有1成多，和时间做...",
+        "url": "https://longbridge.com/zh-CN/topics/39422766"
+      },
+      {
+        "date": "2026-03-12",
+        "level": "B",
+        "symbols": [
+          "TSM"
+        ],
+        "topic_id": "39225833",
+        "summary": "$TSM 整出这么大动静来 还是安心拿着正股不折腾了",
+        "url": "https://longbridge.com/zh-CN/topics/39225833"
+      },
+      {
+        "date": "2026-03-07",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "BRK.B",
+          "GOOG"
+        ],
+        "topic_id": "39123879",
+        "summary": "看了 $BRK 伯克希尔新CEO的这段采访 回购目的已经说的很直白了 我现在核心持仓科技股布局longcall就剩 $GOOG 和 $AMZN...",
+        "url": "https://longbridge.com/zh-CN/topics/39123879"
+      },
+      {
+        "date": "2026-03-06",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "39110358",
+        "summary": "有铁子问最近我甚少聊 $TSLA, 我这里回复一下： 1、 $TSLA 是我的核心持股，现在拿着正股很稳，没啥大事件出来了，长期看涨，但也没必要...",
+        "url": "https://longbridge.com/zh-CN/topics/39110358"
+      },
+      {
+        "date": "2026-02-26",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "38896369",
+        "summary": "回来继续做功课，这两天在路上很多铁子都在问 $NVO 怎么看？ 1、查了一下 $NVO 的基本面，没啥问题 2、这两天跌是因为GLP-1减肥药C...",
+        "url": "https://longbridge.com/zh-CN/topics/38896369"
+      },
+      {
+        "date": "2026-02-23",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "38824192",
+        "summary": "既有仓位 ，又有现金 进可攻退可守 正股长期持仓，中短期攻守靠期权",
+        "url": "https://longbridge.com/zh-CN/topics/38824192"
+      },
+      {
+        "date": "2026-02-16",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "topic_id": "38746394",
+        "summary": "昨天发的不是鸡汤我想说对于好标的基本面没问题长期看好的标的低点敢于逆势反人性加仓涨高能顶住诱惑不卖这种纪律和耐心值得好好磨练正股长期➕longc...",
+        "url": "https://longbridge.com/zh-CN/topics/38746394"
+      },
+      {
+        "date": "2026-02-11",
+        "level": "B",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "38646549",
+        "summary": "$谷歌-C(GOOG.US)有铁子问发债这事怎么看？ 我不太懂，不过发债也有那么多人买🤔 谷歌是我长期看好的标的，也属于非卖品！ 今天开启休假模...",
+        "url": "https://longbridge.com/zh-CN/topics/38646549"
+      },
+      {
+        "date": "2026-02-06",
+        "level": "B",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "38538762",
+        "summary": "$亚马逊(AMZN.US)计划今年开支2000亿继续吓坏华尔街 先加点正股 话说每年都要来这么一波么🤔",
+        "url": "https://longbridge.com/zh-CN/topics/38538762"
+      },
+      {
+        "date": "2026-02-02",
+        "level": "B",
+        "symbols": [
+          "BMNR",
+          "BMNRD"
+        ],
+        "topic_id": "38325642",
+        "summary": "你们猜对了就是BMNR，不过我只有正股，看来我这套策略不适合币圈股😂",
+        "url": "https://longbridge.com/zh-CN/topics/38325642"
+      }
+    ]
+  },
+  "cashflow": {
+    "label": "现金流",
+    "pattern": "现金流|收现金|自由现金流",
+    "match_count": 36,
+    "evidence_count": 27,
+    "level_counts": {
+      "A": 14,
+      "B": 2,
+      "C": 11,
+      "D": 1,
+      "U": 8
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-12",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "40681338",
+        "summary": "$苹果(AAPL.US)继续出点longcall 收现金💰提高一下现金流",
+        "url": "https://longbridge.com/zh-CN/topics/40681338"
+      },
+      {
+        "date": "2026-05-09",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "40592849",
+        "summary": "最近的操作策略就是 新高了就分批出longcall 收现金模式 提高自由现金流",
+        "url": "https://longbridge.com/zh-CN/topics/40592849"
+      },
+      {
+        "date": "2026-04-20",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "TSLA"
+        ],
+        "topic_id": "40028306",
+        "summary": "霍尔木兹海峡再次关闭 运气好的是上周五出了一些 $AAPL 和 $AMZN 的longcall 搞回来了点现金流 话说本周 $TSLA 财报，看...",
+        "url": "https://longbridge.com/zh-CN/topics/40028306"
+      },
+      {
+        "date": "2026-02-20",
+        "level": "C",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "GOOG"
+        ],
+        "topic_id": "38805118",
+        "summary": "看来运气还在 最近布局 $亚马逊(AMZN.US)$谷歌-C(GOOG.US)和$苹果(AAPL.US)的longcall都还行😂 剩下就等着后...",
+        "url": "https://longbridge.com/zh-CN/topics/38805118"
+      },
+      {
+        "date": "2026-01-15",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "37834353",
+        "summary": "买股票 就是买公司 就是买公司的未来现金流 我越来越喜欢未来现金流 NB 的公司了 因为最终都要落到赚钱上",
+        "url": "https://longbridge.com/zh-CN/topics/37834353"
+      },
+      {
+        "date": "2026-01-15",
+        "level": "A",
+        "symbols": [
+          "KO"
+        ],
+        "topic_id": "37826818",
+        "summary": "这几天 $KO 起来挺快啊 逐步分批出longcall 收现金 等待最近这些财报完事看能否捞点货🤔",
+        "url": "https://longbridge.com/zh-CN/topics/37826818"
+      },
+      {
+        "date": "2025-11-21",
+        "level": "A",
+        "symbols": [
+          "KO"
+        ],
+        "topic_id": "36628770",
+        "summary": "$KO 260618 70 Call(KO260618C70000.US)分批出点longcall，继续收现金",
+        "url": "https://longbridge.com/zh-CN/topics/36628770"
+      },
+      {
+        "date": "2025-11-10",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "NVDA",
+          "TSM"
+        ],
+        "topic_id": "36180391",
+        "summary": "买股票就是买公司的一部分，就是买公司的未来现金流 例如 $伯克希尔哈撒韦-B(BRK.B.US) 就算巴菲特不是CEO了，但是它的未来现金流会继...",
+        "url": "https://longbridge.com/zh-CN/topics/36180391"
+      },
+      {
+        "date": "2025-10-31",
+        "level": "A",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "35857396",
+        "summary": "$亚马逊(AMZN.US)分批出，继续收现金💰",
+        "url": "https://longbridge.com/zh-CN/topics/35857396"
+      },
+      {
+        "date": "2025-10-31",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "GOOG",
+          "TSLA"
+        ],
+        "topic_id": "35825265",
+        "summary": "昨晚把 $GOOG 的 longcall 出完了，收了点现金💰后续把 $AAPL longcall 也分批出了收现金💰准备护盘 $TSLA 😂，...",
+        "url": "https://longbridge.com/zh-CN/topics/35825265"
+      },
+      {
+        "date": "2025-10-15",
+        "level": "A",
+        "symbols": [
+          "KO"
+        ],
+        "topic_id": "35212161",
+        "summary": "$KO 260116 70 Call(KO260116C70000.US)分批出 $KO longcall收现金 看了一下昨晚这运气有点好😂",
+        "url": "https://longbridge.com/zh-CN/topics/35212161"
+      },
+      {
+        "date": "2025-09-26",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "34507829",
+        "summary": "昨晚继续慢出 $AAPL longcall收现金 小火箭longcall搞了点观察仓",
+        "url": "https://longbridge.com/zh-CN/topics/34507829"
+      },
+      {
+        "date": "2025-09-24",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "34419849",
+        "summary": "做一个好股票的收藏家： 1、找到好公司好股票 2、等待好价格分批买入正股 3、大跌时再分批加一些longcall 4、短期波动靠longcall...",
+        "url": "https://longbridge.com/zh-CN/topics/34419849"
+      },
+      {
+        "date": "2025-09-24",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN"
+        ],
+        "topic_id": "34398619",
+        "summary": "昨晚继续慢出 $AAPL longcall收现金 睡前整体还是涨的，一觉醒来亏了点😂 机会都是等出来的🤔 先不要问买不买 $AMZN 🤣",
+        "url": "https://longbridge.com/zh-CN/topics/34398619"
+      },
+      {
+        "date": "2025-09-19",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "BRK.B",
+          "TSLA"
+        ],
+        "topic_id": "34252124",
+        "summary": "很多铁子问下半年的思考 这里更新一下： $BABA $RKLB longcall 都出差不多了 剩下 $AAPL 和 $伯克希尔哈撒韦-B(BR...",
+        "url": "https://longbridge.com/zh-CN/topics/34252124"
+      },
+      {
+        "date": "2025-09-16",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "TSLA"
+        ],
+        "topic_id": "34071290",
+        "summary": "这几天很多铁子问我，降息回调如何应对？我简单说一下我的想法：1、降息应该不是所有都回调，找找降息利好哪些行业，例如：房产、 车 $特斯拉 (TS...",
+        "url": "https://longbridge.com/zh-CN/topics/34071290"
+      },
+      {
+        "date": "2025-08-30",
+        "level": "C",
+        "symbols": [
+          "BABA",
+          "BRK.B",
+          "RKLB"
+        ],
+        "topic_id": "33499955",
+        "summary": "$伯克希尔哈撒韦-B(BRK.B.US)$阿里巴巴(BABA.US)和 $Rocket Lab USA(RKLB.US)的 longcall 都...",
+        "url": "https://longbridge.com/zh-CN/topics/33499955"
+      },
+      {
+        "date": "2025-08-23",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "33275583",
+        "summary": "买股票，就是买公司。 买公司，就是买公司的未来现金流折现。",
+        "url": "https://longbridge.com/zh-CN/topics/33275583"
+      },
+      {
+        "date": "2025-08-01",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "32494674",
+        "summary": "好的商业模式重点看： 1、护城河是否长期坚固 —产品的差异化的持续性 2、长期毛利率是否合理 —产品的可替代性 3、长期的净现金流是否NB",
+        "url": "https://longbridge.com/zh-CN/topics/32494674"
+      },
+      {
+        "date": "2025-07-25",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "32216523",
+        "summary": "说说我对财报的一些看法： 1、不赌财报，这里搞末日期权太容易被机构割韭菜了 2、长期价值投资者咱们应该看长远企业发展是否是你预想的或者看好的方向...",
+        "url": "https://longbridge.com/zh-CN/topics/32216523"
+      }
+    ]
+  },
+  "time_friend": {
+    "label": "和时间做朋友 / 长期",
+    "pattern": "和时间做朋友|长期|长持|慢慢",
+    "match_count": 361,
+    "evidence_count": 339,
+    "level_counts": {
+      "A": 42,
+      "B": 185,
+      "C": 112,
+      "D": 2,
+      "U": 20
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-25",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "41078923",
+        "summary": "当年为了支持老板 一发不可收拾 不断完善了自己的投资理念 和时间做朋友，会持续发下去！",
+        "url": "https://longbridge.com/zh-CN/topics/41078923"
+      },
+      {
+        "date": "2026-05-15",
+        "level": "B",
+        "symbols": [
+          "TSM"
+        ],
+        "topic_id": "40807865",
+        "summary": "$台积电 (TSM.US)和时间做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/40807865"
+      },
+      {
+        "date": "2026-05-10",
+        "level": "A",
+        "symbols": [
+          "MSFT",
+          "OpenAI"
+        ],
+        "topic_id": "40600776",
+        "summary": "微软 $MSFT 我最近的思考： 看重的还是“云 + AI”驱动模式 1.、AI Copilot 渗透： Microsoft 365 Copil...",
+        "url": "https://longbridge.com/zh-CN/topics/40600776"
+      },
+      {
+        "date": "2026-05-08",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "40538890",
+        "summary": "准备长持 就是不知道多久的意思 除非基本面出问题或者有更好的标的🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40538890"
+      },
+      {
+        "date": "2026-05-05",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "40411006",
+        "summary": "$诺和诺德公司(NVO.US)这货最近慢慢起来了 正股打算长持 拿了一波股息感觉还行😂",
+        "url": "https://longbridge.com/zh-CN/topics/40411006"
+      },
+      {
+        "date": "2026-04-29",
+        "level": "C",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT",
+          "OpenAI"
+        ],
+        "topic_id": "40282185",
+        "summary": "OpenAI 用户规模未达标加上 CFO 担忧这事 昨晚导致科技股回调，尤其半导体 4 月 29 号盘后 $微软(MSFT.US) $亚马逊(A...",
+        "url": "https://longbridge.com/zh-CN/topics/40282185"
+      },
+      {
+        "date": "2026-04-27",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "40211354",
+        "summary": "$NVO 近期销售数据不错 整体在回归，和时间做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/40211354"
+      },
+      {
+        "date": "2026-04-25",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "40198019",
+        "summary": "如果你想获得向上积累的财富你就必须接受随之而来的波动这是长期投资成功的入场费或者叫学费🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40198019"
+      },
+      {
+        "date": "2026-04-23",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "40119516",
+        "summary": "统一回复： 1、 $TSLA 我长期看好 2、持股体验一直是这样，大家要看各自的承受能力选择 3、这次财报我觉得超出我预期了 4、可惜这次没有给...",
+        "url": "https://longbridge.com/zh-CN/topics/40119516"
+      },
+      {
+        "date": "2026-04-22",
+        "level": "B",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "40104541",
+        "summary": "没想到 $AAPL 一天就回来了😂 时间还够长，慢慢和时间做朋友！ 期待新CEO在今年新品发布会能有爆品出来🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40104541"
+      },
+      {
+        "date": "2026-04-14",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "39906039",
+        "summary": "记录一下两个仓都开始转正了😂 继续和时间做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/39906039"
+      },
+      {
+        "date": "2026-04-11",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "39849298",
+        "summary": "我是个满仓主义者 长期保持在 9 成仓左右 今年这波回撤两个仓在 15% 左右 比前两年好不少 继续磨练完善自己的投资策略或者叫体系💪 长短结合...",
+        "url": "https://longbridge.com/zh-CN/topics/39849298"
+      },
+      {
+        "date": "2026-04-10",
+        "level": "B",
+        "symbols": [
+          "AMZN"
+        ],
+        "topic_id": "39818262",
+        "summary": "$亚马逊(AMZN.US)正股搞不来波段 长期看好 和时间做朋友就好🤔",
+        "url": "https://longbridge.com/zh-CN/topics/39818262"
+      },
+      {
+        "date": "2026-04-09",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "39802624",
+        "summary": "还差6个多点才能回归 慢慢和时间做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/39802624"
+      },
+      {
+        "date": "2026-03-28",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "39597969",
+        "summary": "该读书读书📖 二刷了慢慢变富 希望和有缘的铁子们一起慢慢变富！",
+        "url": "https://longbridge.com/zh-CN/topics/39597969"
+      },
+      {
+        "date": "2026-03-21",
+        "level": "A",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "39422766",
+        "summary": "本周加了点 $BRKB longcall 最近波动还是局势影响，手里有大把现金，也比较看好阿贝尔！ 现在手里 $BRKB 正股有1成多，和时间做...",
+        "url": "https://longbridge.com/zh-CN/topics/39422766"
+      },
+      {
+        "date": "2026-03-07",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "39124234",
+        "summary": "$NVO 和 $HIMS 握手言和 结果 $HIMS 大涨 不过我只有 $NVO 慢慢拿着，和时间做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/39124234"
+      },
+      {
+        "date": "2026-03-06",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "39110358",
+        "summary": "有铁子问最近我甚少聊 $TSLA, 我这里回复一下： 1、 $TSLA 是我的核心持股，现在拿着正股很稳，没啥大事件出来了，长期看涨，但也没必要...",
+        "url": "https://longbridge.com/zh-CN/topics/39110358"
+      },
+      {
+        "date": "2026-02-23",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "38824192",
+        "summary": "既有仓位 ，又有现金 进可攻退可守 正股长期持仓，中短期攻守靠期权",
+        "url": "https://longbridge.com/zh-CN/topics/38824192"
+      },
+      {
+        "date": "2026-02-20",
+        "level": "C",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "GOOG"
+        ],
+        "topic_id": "38805118",
+        "summary": "看来运气还在 最近布局 $亚马逊(AMZN.US)$谷歌-C(GOOG.US)和$苹果(AAPL.US)的longcall都还行😂 剩下就等着后...",
+        "url": "https://longbridge.com/zh-CN/topics/38805118"
+      }
+    ]
+  },
+  "safety_margin": {
+    "label": "安全边际 / 王子落难",
+    "pattern": "安全边际|王子落难|困境反转",
+    "match_count": 15,
+    "evidence_count": 15,
+    "level_counts": {
+      "A": 6,
+      "B": 2,
+      "C": 7,
+      "D": 0,
+      "U": 0
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-04-24",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "40160511",
+        "summary": "真正能拿住 $TSLA 的不多 大部分都是几年前布局好的 有足够的安全边际 未来很光明 但大部分投资者经不起波澜🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40160511"
+      },
+      {
+        "date": "2026-03-08",
+        "level": "A",
+        "symbols": [
+          "GOOG",
+          "LICY",
+          "RXRX",
+          "TSLA"
+        ],
+        "topic_id": "39128519",
+        "summary": "我比较喜欢两种标的： 1、困境反转型大标的（大蓝筹股），话说王子落难时买入，例如：去年的 $谷歌-C(GOOG.US) 算是这种 2、具有增长潜...",
+        "url": "https://longbridge.com/zh-CN/topics/39128519"
+      },
+      {
+        "date": "2026-03-06",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "39110358",
+        "summary": "有铁子问最近我甚少聊 $TSLA, 我这里回复一下： 1、 $TSLA 是我的核心持股，现在拿着正股很稳，没啥大事件出来了，长期看涨，但也没必要...",
+        "url": "https://longbridge.com/zh-CN/topics/39110358"
+      },
+      {
+        "date": "2025-11-07",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "KO",
+          "TSLA"
+        ],
+        "topic_id": "36113519",
+        "summary": "有铁子说现在 $特斯拉 (TSLA.US) 买性价比不高。。。我说一下我的想法：1、本来想在股东大会前看机会调仓搞一波的，结果没给机会2、大会结...",
+        "url": "https://longbridge.com/zh-CN/topics/36113519"
+      },
+      {
+        "date": "2025-11-04",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "BRK.B",
+          "GOOG",
+          "KO",
+          "TSLA",
+          "TSM"
+        ],
+        "topic_id": "35954443",
+        "summary": "喝一杯☕️思考一下🤔 科技股 $AAPL $TSM $GOOG $TSLA 只有正股+sell put 了 $AMZN 正股 +sell put...",
+        "url": "https://longbridge.com/zh-CN/topics/35954443"
+      },
+      {
+        "date": "2025-10-29",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "35712064",
+        "summary": "longcall 尽可能做到稳中取胜： 1、把自己放到最有利的位置上 2、财报我一般不赌，所以财报前见好降低成本 3、成本低了安全边际就高了，更...",
+        "url": "https://longbridge.com/zh-CN/topics/35712064"
+      },
+      {
+        "date": "2025-02-20",
+        "level": "A",
+        "symbols": [
+          "SMCI",
+          "TSLA"
+        ],
+        "topic_id": "27359650",
+        "summary": "期权这东西我的一些操作策略： 1、市场被误判时建仓 leaps call，或者卖 put 2、波动起来分批卖一部分，拿回成本 3、上涨继续分批出...",
+        "url": "https://longbridge.com/zh-CN/topics/27359650"
+      },
+      {
+        "date": "2025-02-08",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "27059787",
+        "summary": "$特斯拉(TSLA.US)里赚钱没有那么容易，没信仰的很难拿住，要拿住低成本很重要，有足够的安全边际，看看去年建仓的时间和现在差不多，巧合么😂",
+        "url": "https://longbridge.com/zh-CN/topics/27059787"
+      },
+      {
+        "date": "2024-12-20",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "26220364",
+        "summary": "$特斯拉(TSLA.US)只有留够足够的安全边际才能拿得住，这货碰到多次50%的回调了，心脏🫀不大容易被割韭菜！",
+        "url": "https://longbridge.com/zh-CN/topics/26220364"
+      },
+      {
+        "date": "2024-10-10",
+        "level": "A",
+        "symbols": [
+          "09868"
+        ],
+        "topic_id": "24396304",
+        "summary": "$小鹏汽车-W(09868.HK)上半年低点喊加仓，现在涨高了我都不建议追高，如果大家看好可以追那也得等回调时加，控制成本价留出安全边际很重要！...",
+        "url": "https://longbridge.com/zh-CN/topics/24396304"
+      },
+      {
+        "date": "2024-08-28",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "23487981",
+        "summary": "$特斯拉(TSLA.US)正股控制好安全边际，中间浮动就是短期操作期权的时机，后面两天还跌的话，期权应该比较合适😂",
+        "url": "https://longbridge.com/zh-CN/topics/23487981"
+      },
+      {
+        "date": "2023-02-18",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "4273773",
+        "summary": "找到好公司容易，找到具有相当大安全边际的好公司的股票也不太难，难的是情绪，无论是市场过于低估的大盘股，还是严重低估的便宜货股票，都是市场非常不看...",
+        "url": "https://longbridge.com/zh-CN/topics/4273773"
+      },
+      {
+        "date": "2022-10-11",
+        "level": "C",
+        "symbols": [
+          "09868",
+          "9868",
+          "XPEV"
+        ],
+        "topic_id": "3521953",
+        "summary": "$小鹏汽车.US 已经成个位数，感觉这安全边际已经有了，各位独立思考！",
+        "url": "https://longbridge.com/zh-CN/topics/3521953"
+      },
+      {
+        "date": "2021-11-21",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "1346250",
+        "summary": "安全边际法则是投资者购买股票的一个重要原则。 如果某一个企业让你很心动，你应该先分析企业的内在价值，然后等待合适的时机买进。当股票价格进入安全边...",
+        "url": "https://longbridge.com/zh-CN/topics/1346250"
+      },
+      {
+        "date": "2021-08-19",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "1058034",
+        "summary": "以 “安全边际” 去挑选股票，在当前大势低迷的状态下就是机会。",
+        "url": "https://longbridge.com/zh-CN/topics/1058034"
+      }
+    ]
+  },
+  "watchlist": {
+    "label": "观察仓 / 等机会",
+    "pattern": "观察仓|关注|做功课|等机会|给机会|准备",
+    "match_count": 160,
+    "evidence_count": 159,
+    "level_counts": {
+      "A": 39,
+      "B": 12,
+      "C": 108,
+      "D": 1,
+      "U": 0
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-19",
+        "level": "A",
+        "symbols": [
+          "SpaceX"
+        ],
+        "topic_id": "40895147",
+        "summary": "昨晚把我家领导账户一些七零八碎的小标的都清了 收拢现金 也准备好迎接 SpaceX IPO",
+        "url": "https://longbridge.com/zh-CN/topics/40895147"
+      },
+      {
+        "date": "2026-05-17",
+        "level": "C",
+        "symbols": [
+          "AAPL",
+          "META",
+          "NVDA",
+          "QCOM",
+          "TSLA"
+        ],
+        "topic_id": "40854136",
+        "summary": "今天研究了一下物理AI行业 机器人和智能眼镜👓 国内这些公司看着都如此陌生，平时研究的少😂 还得多做做功课！🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40854136"
+      },
+      {
+        "date": "2026-05-08",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "40538890",
+        "summary": "准备长持 就是不知道多久的意思 除非基本面出问题或者有更好的标的🤔",
+        "url": "https://longbridge.com/zh-CN/topics/40538890"
+      },
+      {
+        "date": "2026-05-01",
+        "level": "A",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "40349043",
+        "summary": "本周四大科技股作业都交完了 接下来就是期待5月2号 $伯克希尔哈撒韦-B(BRK.B.US)股东大会阿贝尔的表现了 我相信巴老爷子不会看走眼 布...",
+        "url": "https://longbridge.com/zh-CN/topics/40349043"
+      },
+      {
+        "date": "2026-04-29",
+        "level": "C",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT",
+          "OpenAI"
+        ],
+        "topic_id": "40282185",
+        "summary": "OpenAI 用户规模未达标加上 CFO 担忧这事 昨晚导致科技股回调，尤其半导体 4 月 29 号盘后 $微软(MSFT.US) $亚马逊(A...",
+        "url": "https://longbridge.com/zh-CN/topics/40282185"
+      },
+      {
+        "date": "2026-04-26",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT"
+        ],
+        "topic_id": "40201806",
+        "summary": "下周 $AMZN $GOOG 和 $MSFT 财报： 1、 $AMZN 和 $GOOG 都是我的核心持股 正股➕longcall 我不太担心啥，...",
+        "url": "https://longbridge.com/zh-CN/topics/40201806"
+      },
+      {
+        "date": "2026-04-24",
+        "level": "C",
+        "symbols": [
+          "AMZN",
+          "MSFT",
+          "TSLA"
+        ],
+        "topic_id": "40153915",
+        "summary": "$亚马逊(AMZN.US)longcall都是负成本了 后续让利润继续跑 希望$特斯拉(TSLA.US)和$微软(MSFT.US)能给机会布局l...",
+        "url": "https://longbridge.com/zh-CN/topics/40153915"
+      },
+      {
+        "date": "2026-04-23",
+        "level": "C",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "40119516",
+        "summary": "统一回复： 1、 $TSLA 我长期看好 2、持股体验一直是这样，大家要看各自的承受能力选择 3、这次财报我觉得超出我预期了 4、可惜这次没有给...",
+        "url": "https://longbridge.com/zh-CN/topics/40119516"
+      },
+      {
+        "date": "2026-04-20",
+        "level": "A",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "TSLA"
+        ],
+        "topic_id": "40028306",
+        "summary": "霍尔木兹海峡再次关闭 运气好的是上周五出了一些 $AAPL 和 $AMZN 的longcall 搞回来了点现金流 话说本周 $TSLA 财报，看...",
+        "url": "https://longbridge.com/zh-CN/topics/40028306"
+      },
+      {
+        "date": "2026-04-17",
+        "level": "C",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "40006150",
+        "summary": "$微软(MSFT.US)不给机会了😂 睡觉💤",
+        "url": "https://longbridge.com/zh-CN/topics/40006150"
+      },
+      {
+        "date": "2026-04-17",
+        "level": "A",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "40000072",
+        "summary": "$ 微软.US先建个观察仓",
+        "url": "https://longbridge.com/zh-CN/topics/40000072"
+      },
+      {
+        "date": "2026-04-17",
+        "level": "C",
+        "symbols": [
+          "MSFT",
+          "OpenAI"
+        ],
+        "topic_id": "39988915",
+        "summary": "$MSFT 开始用 Claude Opus 4.7 Open是好事 基本上已经排除对OpenAI依赖的担忧 得花点时间关注起来了🤔",
+        "url": "https://longbridge.com/zh-CN/topics/39988915"
+      },
+      {
+        "date": "2026-03-28",
+        "level": "C",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "39596073",
+        "summary": "一点思考： 1、求稳，只搞自己觉得最靠谱的，最近一直在布局 $BRKB 2、局势还不稳定，科技股暂时没动，等真正看到苗头再说 3、手里有短期的l...",
+        "url": "https://longbridge.com/zh-CN/topics/39596073"
+      },
+      {
+        "date": "2026-03-19",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "39359058",
+        "summary": "财报前这波动 就看给不给机会了😂",
+        "url": "https://longbridge.com/zh-CN/topics/39359058"
+      },
+      {
+        "date": "2026-03-17",
+        "level": "C",
+        "symbols": [
+          "AMZN",
+          "GOOG",
+          "MSFT",
+          "NVDA"
+        ],
+        "topic_id": "39297701",
+        "summary": "正在看老黄的演讲 为何这么关注 GTC 因为它支撑着 AI 叙事 从股价来整体 看AI 股都比较坚挺 $英伟达(NVDA.US) 基本上和所有的...",
+        "url": "https://longbridge.com/zh-CN/topics/39297701"
+      },
+      {
+        "date": "2026-03-16",
+        "level": "C",
+        "symbols": [
+          "NVDA"
+        ],
+        "topic_id": "39273431",
+        "summary": "$NVDA GTC是本周关注的重点",
+        "url": "https://longbridge.com/zh-CN/topics/39273431"
+      },
+      {
+        "date": "2026-03-08",
+        "level": "A",
+        "symbols": [
+          "GOOG",
+          "LICY",
+          "RXRX",
+          "TSLA"
+        ],
+        "topic_id": "39128519",
+        "summary": "我比较喜欢两种标的： 1、困境反转型大标的（大蓝筹股），话说王子落难时买入，例如：去年的 $谷歌-C(GOOG.US) 算是这种 2、具有增长潜...",
+        "url": "https://longbridge.com/zh-CN/topics/39128519"
+      },
+      {
+        "date": "2026-02-28",
+        "level": "C",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "38958251",
+        "summary": "$苹果(AAPL.US)昨晚跌了不少，下周希望能给机会再捞回来点😂",
+        "url": "https://longbridge.com/zh-CN/topics/38958251"
+      },
+      {
+        "date": "2026-02-26",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "38896369",
+        "summary": "回来继续做功课，这两天在路上很多铁子都在问 $NVO 怎么看？ 1、查了一下 $NVO 的基本面，没啥问题 2、这两天跌是因为GLP-1减肥药C...",
+        "url": "https://longbridge.com/zh-CN/topics/38896369"
+      },
+      {
+        "date": "2026-02-25",
+        "level": "A",
+        "symbols": [
+          "AAPL"
+        ],
+        "topic_id": "38868467",
+        "summary": "$苹果(AAPL.US)昨晚出了点苹果的longcall降低成本，剩下的就拿着，给机会再搞一波🤔",
+        "url": "https://longbridge.com/zh-CN/topics/38868467"
+      }
+    ]
+  },
+  "risk_control": {
+    "label": "风控 / 分批 / 不懂不碰",
+    "pattern": "不懂不碰|拿不准|分批|仓位|控制",
+    "match_count": 187,
+    "evidence_count": 164,
+    "level_counts": {
+      "A": 110,
+      "B": 13,
+      "C": 41,
+      "D": 6,
+      "U": 17
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-29",
+        "level": "A",
+        "symbols": [
+          "BRK.B",
+          "MSFT"
+        ],
+        "topic_id": "41273421",
+        "summary": "冰火两重天啊 分批出点 $微软(MSFT.US)longcall 补点 $伯克希尔哈撒韦-B(BRK.B.US)longcall",
+        "url": "https://longbridge.com/zh-CN/topics/41273421"
+      },
+      {
+        "date": "2026-05-22",
+        "level": "A",
+        "symbols": [
+          "SpaceX",
+          "TSLA"
+        ],
+        "topic_id": "41010686",
+        "summary": "有铁子问：SpaceX IPO 会对 $TSLA 有影响吗？说实话我不知道，股市这东西短期判断不来但是我知道的是：特斯拉持有 18,990,19...",
+        "url": "https://longbridge.com/zh-CN/topics/41010686"
+      },
+      {
+        "date": "2026-05-09",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "40592849",
+        "summary": "最近的操作策略就是 新高了就分批出longcall 收现金模式 提高自由现金流",
+        "url": "https://longbridge.com/zh-CN/topics/40592849"
+      },
+      {
+        "date": "2026-05-01",
+        "level": "A",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "40344142",
+        "summary": "$微软(MSFT.US)昨晚布局了一点正股和 明年1月份450 longcall 分批一点点来",
+        "url": "https://longbridge.com/zh-CN/topics/40344142"
+      },
+      {
+        "date": "2026-04-28",
+        "level": "A",
+        "symbols": [
+          "GOOG"
+        ],
+        "topic_id": "40254552",
+        "summary": "昨晚 $GOOG 摸到新搞 这波longcall也赚了不少了 手里多的可分批出点降低成本 不堵财报",
+        "url": "https://longbridge.com/zh-CN/topics/40254552"
+      },
+      {
+        "date": "2026-04-25",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "40199871",
+        "summary": "需要记住这张图，只要记住下面四组数据： 1、下跌📉10% — 需要上涨📈11.11% 2、下跌📉20% — 需要上涨📈25% 3、下跌📉33.3...",
+        "url": "https://longbridge.com/zh-CN/topics/40199871"
+      },
+      {
+        "date": "2026-04-10",
+        "level": "A",
+        "symbols": [
+          "AMZN",
+          "AMZU"
+        ],
+        "topic_id": "39818437",
+        "summary": "针对longcall 和以前一样 时间近和价高的可以分批出了 具体自己拿捏",
+        "url": "https://longbridge.com/zh-CN/topics/39818437"
+      },
+      {
+        "date": "2026-02-28",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "38959354",
+        "summary": "这两天很多铁子问这个那个要不要加 longcall？这里统一回复一下：1、加 longcall 的时机是大跌2、最近科技股回调看着满地是机会，但...",
+        "url": "https://longbridge.com/zh-CN/topics/38959354"
+      },
+      {
+        "date": "2026-02-26",
+        "level": "B",
+        "symbols": [
+          "NVO"
+        ],
+        "topic_id": "38896369",
+        "summary": "回来继续做功课，这两天在路上很多铁子都在问 $NVO 怎么看？ 1、查了一下 $NVO 的基本面，没啥问题 2、这两天跌是因为GLP-1减肥药C...",
+        "url": "https://longbridge.com/zh-CN/topics/38896369"
+      },
+      {
+        "date": "2026-02-23",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "38824192",
+        "summary": "既有仓位 ，又有现金 进可攻退可守 正股长期持仓，中短期攻守靠期权",
+        "url": "https://longbridge.com/zh-CN/topics/38824192"
+      },
+      {
+        "date": "2026-02-22",
+        "level": "C",
+        "symbols": [
+          "MSFT",
+          "OpenAI"
+        ],
+        "topic_id": "38818731",
+        "summary": "很多铁子在问 $MSFT 的看法： 1、股价确实跌了不少，但我还没找到买它的理由 2、有点担心的是它AI太依赖OpenAI ，对Sam我有点不放...",
+        "url": "https://longbridge.com/zh-CN/topics/38818731"
+      },
+      {
+        "date": "2026-02-21",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "38815132",
+        "summary": "千万不要因为想抄到底 而错过一只好股票 很多人只会说它还会更低我再等等 我从来没抓住过最低点 只是到了我认为的击球区就开始分批建仓 分批建仓也是...",
+        "url": "https://longbridge.com/zh-CN/topics/38815132"
+      },
+      {
+        "date": "2026-02-15",
+        "level": "B",
+        "symbols": [
+          "AMZN",
+          "GOOG"
+        ],
+        "topic_id": "38743490",
+        "summary": "$亚马逊(AMZN.US)都是打算长持 和去年 $谷歌-C(GOOG.US)布局一样 达到仓位基本上就可以躺平和时间做朋友了😂",
+        "url": "https://longbridge.com/zh-CN/topics/38743490"
+      },
+      {
+        "date": "2026-02-09",
+        "level": "C",
+        "symbols": [
+          "02228"
+        ],
+        "topic_id": "38594014",
+        "summary": "$晶泰控股(02228.HK)有点港币，分批加仓捞点货，",
+        "url": "https://longbridge.com/zh-CN/topics/38594014"
+      },
+      {
+        "date": "2026-02-06",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "38548528",
+        "summary": "满地都是黄金坑擦亮眼睛找到未来 AI 时代的英勇然后分批布局架起机枪瞄准点射子弹要慢慢打，不能一梭子打完🤣",
+        "url": "https://longbridge.com/zh-CN/topics/38548528"
+      },
+      {
+        "date": "2026-02-01",
+        "level": "A",
+        "symbols": [
+          "MSFT"
+        ],
+        "topic_id": "38315082",
+        "summary": "$MSFT 财报后也股价大跌，有很多铁子来问我为何不布局longcall？ 我都回复我不懂，不懂不碰的原则 1、不是所有股票大跌就去出手，还是需...",
+        "url": "https://longbridge.com/zh-CN/topics/38315082"
+      },
+      {
+        "date": "2026-01-30",
+        "level": "C",
+        "symbols": [
+          "SpaceX",
+          "TSLA"
+        ],
+        "topic_id": "38261350",
+        "summary": "对于今天传的后续会合并到 $TSLA 这事，我的个人看法： 先说结论：大概率不会，但我希望它能成，因为我是 $TSLA 股东😂 我的分析： 根据...",
+        "url": "https://longbridge.com/zh-CN/topics/38261350"
+      },
+      {
+        "date": "2026-01-25",
+        "level": "A",
+        "symbols": [
+          "NFLX"
+        ],
+        "topic_id": "38077904",
+        "summary": "很多人前一阵问我 $奈飞(NFLX.US) 的看法 1、我都回复我不懂，还是不懂不碰的原则 2、最近跌一个收购的事，一个是财报未来展望 3、财报...",
+        "url": "https://longbridge.com/zh-CN/topics/38077904"
+      },
+      {
+        "date": "2026-01-15",
+        "level": "A",
+        "symbols": [
+          "KO"
+        ],
+        "topic_id": "37826818",
+        "summary": "这几天 $KO 起来挺快啊 逐步分批出longcall 收现金 等待最近这些财报完事看能否捞点货🤔",
+        "url": "https://longbridge.com/zh-CN/topics/37826818"
+      },
+      {
+        "date": "2026-01-04",
+        "level": "B",
+        "symbols": [
+          "BMNR",
+          "BMNRD",
+          "BTC",
+          "ETH"
+        ],
+        "topic_id": "37523086",
+        "summary": "$BMNR 可以继续拿着这种票波动太大仓位控制好，不宜大🤔",
+        "url": "https://longbridge.com/zh-CN/topics/37523086"
+      }
+    ]
+  },
+  "small_growth": {
+    "label": "小票成长 / 小仓位",
+    "pattern": "小票|成长|增长潜力|高风险|小仓位",
+    "match_count": 42,
+    "evidence_count": 28,
+    "level_counts": {
+      "A": 5,
+      "B": 8,
+      "C": 15,
+      "D": 1,
+      "U": 13
+    },
+    "recent_evidence": [
+      {
+        "date": "2026-05-26",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "41088871",
+        "summary": "AI使coding提效 AI Coding进一步提升各行各业的软件工具 不仅仅是当年的互联网行业 而是全行业，整体的提效 AI Coding也会...",
+        "url": "https://longbridge.com/zh-CN/topics/41088871"
+      },
+      {
+        "date": "2026-03-08",
+        "level": "A",
+        "symbols": [
+          "GOOG",
+          "LICY",
+          "RXRX",
+          "TSLA"
+        ],
+        "topic_id": "39128519",
+        "summary": "我比较喜欢两种标的： 1、困境反转型大标的（大蓝筹股），话说王子落难时买入，例如：去年的 $谷歌-C(GOOG.US) 算是这种 2、具有增长潜...",
+        "url": "https://longbridge.com/zh-CN/topics/39128519"
+      },
+      {
+        "date": "2026-02-09",
+        "level": "A",
+        "symbols": [
+          "NVO",
+          "RXRX"
+        ],
+        "topic_id": "38604089",
+        "summary": "复盘一下布局的这两个医疗股 $NVO 和 $RXRX 这次算经住了波动 这次波动期间有些铁子给了一些中肯的建议，我都先接受消化 君子和而不同，还...",
+        "url": "https://longbridge.com/zh-CN/topics/38604089"
+      },
+      {
+        "date": "2025-12-31",
+        "level": "A",
+        "symbols": [
+          "NVO",
+          "RXRX"
+        ],
+        "topic_id": "37460353",
+        "summary": "昨晚也建了 $NVO 的观察仓，配合着小成长股 $RXRX 一起 为何投医药➕AI 呢？ 1、因为科技股都涨起来了，没啥可买的了 2、老龄化医药...",
+        "url": "https://longbridge.com/zh-CN/topics/37460353"
+      },
+      {
+        "date": "2025-12-30",
+        "level": "C",
+        "symbols": [
+          "RXRX"
+        ],
+        "topic_id": "37449549",
+        "summary": "整体的思路就是： 为明年布局点医药+AI的仓 小的成长股+老牌医药股配合着来 一点点来，分批建仓，控制好仓位🤔",
+        "url": "https://longbridge.com/zh-CN/topics/37449549"
+      },
+      {
+        "date": "2025-12-25",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "37373437",
+        "summary": "对于小的成长型股票 我到现在都没找到一个合适的办法 费雪的《怎样选择成长股》我读了几遍 但是，这几年整下来感觉这种成长股太难找了 最大的问题在于...",
+        "url": "https://longbridge.com/zh-CN/topics/37373437"
+      },
+      {
+        "date": "2025-10-08",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "34931306",
+        "summary": "最近看到有很多铁子直接全仓搞longcall，看的我后怕，我不建议这么玩： 1、longcall是带杠杆的，风险是失去权利金，时间够长风险小，但...",
+        "url": "https://longbridge.com/zh-CN/topics/34931306"
+      },
+      {
+        "date": "2025-09-28",
+        "level": "A",
+        "symbols": [],
+        "topic_id": "34576908",
+        "summary": "股市里我们到底赚的谁的钱？ 1、第一个就是企业成长的钱 企业赚钱了净利润高了，股价当然也会高，有的也会发股息给股东 2、第二个就是市场误判给奖赏...",
+        "url": "https://longbridge.com/zh-CN/topics/34576908"
+      },
+      {
+        "date": "2025-08-01",
+        "level": "C",
+        "symbols": [
+          "BRK.B"
+        ],
+        "topic_id": "32533293",
+        "summary": "最近布局伯克希尔的逻辑就是稳大盘，看好巴老爷子，虽然他要退休了🤔有机会随时出换更有成长性的标的！",
+        "url": "https://longbridge.com/zh-CN/topics/32533293"
+      },
+      {
+        "date": "2025-08-01",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "32499781",
+        "summary": "投资还是需要有信仰的有了信仰才会有耐心有足够的耐心等待它一步步成长到你相信的那一刻🤔",
+        "url": "https://longbridge.com/zh-CN/topics/32499781"
+      },
+      {
+        "date": "2024-12-27",
+        "level": "B",
+        "symbols": [
+          "CONY"
+        ],
+        "topic_id": "26313508",
+        "summary": "$YieldMax COIN Option Income Strategy ETF(CONY.US)$CONY 先建起观察仓，这股息141%，不...",
+        "url": "https://longbridge.com/zh-CN/topics/26313508"
+      },
+      {
+        "date": "2024-11-12",
+        "level": "A",
+        "symbols": [
+          "LICY"
+        ],
+        "topic_id": "25329905",
+        "summary": "$Li-Cycle(LICY.US)感觉跌的差不多了，加了点仓，这种小票波动大，",
+        "url": "https://longbridge.com/zh-CN/topics/25329905"
+      },
+      {
+        "date": "2024-05-23",
+        "level": "C",
+        "symbols": [
+          "09988",
+          "89988",
+          "9988",
+          "BABA"
+        ],
+        "topic_id": "21322728",
+        "summary": "$阿里巴巴.US 投资成功者=1% 的选股灵感 + 99% 的心理控制！如果心里素质不好，建议可以小仓位分批建仓来练，作为股主只是发表点自己的理...",
+        "url": "https://longbridge.com/zh-CN/topics/21322728"
+      },
+      {
+        "date": "2024-05-05",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "20907640",
+        "summary": "股神巴菲特、芒格，包括国内股市阿段的理论我都看，但是不会去抄作业，因为他们为别人搭理钱，求稳，而且资金量大，打的都是明牌，我们这点资金量跟着抄作...",
+        "url": "https://longbridge.com/zh-CN/topics/20907640"
+      },
+      {
+        "date": "2023-12-31",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "10812972",
+        "summary": "年底了闲来无聊再刷费舍这本经典著作【怎么选择成长股】，经典的书百看不厌，每次都有不一样的收获！ 顺便分享一下今年读的电子书，今年读书的 KPI...",
+        "url": "https://longbridge.com/zh-CN/topics/10812972"
+      },
+      {
+        "date": "2023-06-24",
+        "level": "C",
+        "symbols": [
+          "AAPL",
+          "BRK.B",
+          "TSLA"
+        ],
+        "topic_id": "7549760",
+        "summary": "作为韭菜，我知道$苹果.US 和$伯克希尔哈撒韦-B.US 更稳，但是我个人更偏向于寻求大多数人认为遥不可及的高风险、高回报，就像$特斯拉.US...",
+        "url": "https://longbridge.com/zh-CN/topics/7549760"
+      },
+      {
+        "date": "2023-01-12",
+        "level": "B",
+        "symbols": [
+          "TSLA"
+        ],
+        "topic_id": "3852978",
+        "summary": "这几天出完$腾讯控股(ADR).US 换成$特斯拉.US ，继续长期看好！ 出货的一个时机就是看到更好成长性标的，不是不看好腾讯，只是特斯拉翻倍...",
+        "url": "https://longbridge.com/zh-CN/topics/3852978"
+      },
+      {
+        "date": "2022-09-20",
+        "level": "C",
+        "symbols": [
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "TSLA"
+        ],
+        "topic_id": "3449347",
+        "summary": "在过去12个月里: $Meta.US 跌了60% $奈飞.US 跌了 60% $亚马逊.US 跌了 30% $谷歌-A.US 跌了 26% $苹...",
+        "url": "https://longbridge.com/zh-CN/topics/3449347"
+      },
+      {
+        "date": "2022-01-24",
+        "level": "C",
+        "symbols": [],
+        "topic_id": "1864567",
+        "summary": "下行时我觉的是换股的好时机，可以把那些没信心的碎股扔了，换成你长期看好的成长股，这样跌了你更那得住，更能和时机做朋友！",
+        "url": "https://longbridge.com/zh-CN/topics/1864567"
+      },
+      {
+        "date": "2021-12-10",
+        "level": "B",
+        "symbols": [],
+        "topic_id": "1495560",
+        "summary": "一直在践行价值投资#和时间做朋友，毛遂自荐一下@价值&投资 😂一路陪伴和长桥的小伙伴们一起成长！",
+        "url": "https://longbridge.com/zh-CN/topics/1495560"
+      }
+    ]
+  }
+}

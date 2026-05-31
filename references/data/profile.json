@@ -1,0 +1,273 @@
+{
+  "profile": {
+    "opened": true,
+    "profile": {
+      "id": "3090",
+      "avatar": "https://vcdn.lbctrl.com/avatar/CN_1zwxgw5hvEDubEPJq0d4dpYTIA5!sm",
+      "nickname": "价值&投资",
+      "status": 1,
+      "description": "和时间做朋友！有点钱之上的追求会让你更有钱！",
+      "following_count": 42,
+      "followers_count": 78433,
+      "member_id": "3090",
+      "scopes": {
+        "followed": false,
+        "following": false,
+        "self": false,
+        "blocked": false,
+        "special_following": false,
+        "be_blocked": false,
+        "trade_following": false
+      },
+      "activities_count": 4329,
+      "invite_code": "",
+      "cert_scopes": {
+        "official": false,
+        "cert_Info": null,
+        "security_live_info": null
+      },
+      "cover": "https://pub.lbkrs.com/files/202602/4HwGYN2CRcR7sanR/home_page_default.png",
+      "bookmarks_count": 2,
+      "certification": false,
+      "wear_badges": [
+        {
+          "id": "200187",
+          "name": "2025社区十大人物",
+          "short_name": "",
+          "description": "2025十大影响力人物荣誉勋章，解锁「散户活攻略」称号。",
+          "light_icon": "https://pub.pbkrs.com/cms/2025/0/fet4in7jcHr7UXK5B9G9ZeYKLentncd6/--.png",
+          "small_icon": "https://pub.pbkrs.com/cms/2025/0/6VnCx97bDuJM1zvNBfdfiQpX14mUCqsv/--.png",
+          "value": "",
+          "wear": 1,
+          "grant": 1,
+          "granted_at": "1767061741",
+          "dark_icon": "https://pub.pbkrs.com/cms/2025/0/fet4in7jcHr7UXK5B9G9ZeYKLentncd6/--.png",
+          "member_badge_id": "6559878851",
+          "current_value": "0",
+          "group_name": "official"
+        },
+        {
+          "id": "101",
+          "name": "收益排行",
+          "short_name": "Top 2%",
+          "description": "当前收益率位于 Top 2%\n基于长桥综合账户计算",
+          "light_icon": "https://pub.pbkrs.com/social/badge/accountRate/2.png?v=4&1766496113",
+          "small_icon": "https://pub.pbkrs.com/social/badge/accountRate/small_2.png?v=4&1766496113",
+          "value": "Top 2%",
+          "wear": 1,
+          "grant": 1,
+          "granted_at": "1776745799",
+          "dark_icon": "https://pub.pbkrs.com/social/badge/accountRate/dark_2.png?v=4&1766496113",
+          "member_badge_id": "6451304154",
+          "current_value": "2%",
+          "group_name": "accountRate"
+        }
+      ],
+      "badges_count": 103,
+      "chatgpt_status": 1,
+      "hold_report_status": 1,
+      "stockholder_badges": [
+        {
+          "id": "100001",
+          "name": "特斯拉股主",
+          "short_name": "",
+          "description": "特斯拉牛散，灵活的价值投资者，交易之王",
+          "light_icon": "https://pub.pbkrs.com/cms/2024/0/T7bzGpWUFUQHxJESkc4g2gZ8aeD8mMtf.png",
+          "small_icon": "https://pub.pbkrs.com/cms/2024/0/QEbpYoZoeGEJAjanoUgXKHZzZPyUGvVx/_3x.png",
+          "value": "",
+          "wear": 0,
+          "grant": 1,
+          "granted_at": "1719822377",
+          "dark_icon": "https://pub.pbkrs.com/cms/2024/0/T7bzGpWUFUQHxJESkc4g2gZ8aeD8mMtf.png",
+          "member_badge_id": "6222394294",
+          "current_value": "0",
+          "group_name": "official"
+        },
+        {
+          "id": "200001",
+          "name": "阿里巴巴股主",
+          "short_name": "",
+          "description": "阿里3百万持仓，上市追踪至今，最高收益达7倍",
+          "light_icon": "https://pub.pbkrs.com/cms/2024/0/3uKsq8U2QGPjv8nNdNfhQZD7QehfoY6n/icon.webp",
+          "small_icon": "https://pub.pbkrs.com/cms/2024/0/XPUiYAjknk1ew2LVKyyDthPR514uwiwT/ico.webp",
+          "value": "",
+          "wear": 0,
+          "grant": 1,
+          "granted_at": "1713491464",
+          "dark_icon": "https://pub.pbkrs.com/cms/2024/0/3uKsq8U2QGPjv8nNdNfhQZD7QehfoY6n/icon.webp",
+          "member_badge_id": "6203548077",
+          "current_value": "0",
+          "group_name": "official"
+        },
+        {
+          "id": "200010",
+          "name": "小鹏汽车股主",
+          "short_name": "",
+          "description": "小鹏汽车投资高手，杰出贡献者",
+          "light_icon": "https://pub.pbkrs.com/cms/2024/0/rWcD31y2PtFNwdRtNtZ4VMUKpyoxTfC2/icon.webp",
+          "small_icon": "https://pub.pbkrs.com/cms/2024/0/aJKwwMQvREdUcfUQECGkr6PEcERuHRwy/ico.webp",
+          "value": "",
+          "wear": 0,
+          "grant": 1,
+          "granted_at": "1719822225",
+          "dark_icon": "https://pub.pbkrs.com/cms/2024/0/rWcD31y2PtFNwdRtNtZ4VMUKpyoxTfC2/icon.webp",
+          "member_badge_id": "6222394293",
+          "current_value": "0",
+          "group_name": "official"
+        }
+      ],
+      "bookmarked_count": 13501,
+      "liked_count": 159241,
+      "views_count": 95,
+      "active_speaker_badges": [
+        {
+          "id": "200102",
+          "name": "谷歌评论员",
+          "short_name": "",
+          "description": "谷歌讨论区的活跃贡献者",
+          "light_icon": "https://pub.pbkrs.com/cms/2025/0/7QcBUffDQEmvzm88W5Nz6zWsdDC2jYVX.png",
+          "small_icon": "https://pub.pbkrs.com/cms/2025/0/fth7vPAu2Z8Cz1eXL9h9no3aPH8vZuSF.png",
+          "value": "",
+          "wear": 0,
+          "grant": 1,
+          "granted_at": "1779007850",
+          "dark_icon": "https://pub.pbkrs.com/cms/2025/0/7QcBUffDQEmvzm88W5Nz6zWsdDC2jYVX.png",
+          "member_badge_id": "6810629588",
+          "current_value": "0",
+          "group_name": "official"
+        },
+        {
+          "id": "200151",
+          "name": "诺和诺德评论员",
+          "short_name": "",
+          "description": "诺和诺德讨论区的活跃贡献者",
+          "light_icon": "https://pub.pbkrs.com/cms/2025/0/SD44PX8ETZYsVW6fwD75L3zxN4YD7oPD/icon.png",
+          "small_icon": "https://pub.pbkrs.com/cms/2025/0/t67hPTgYv9qSuGue3FQMEEbVB6YAN35g/icon.png",
+          "value": "",
+          "wear": 0,
+          "grant": 1,
+          "granted_at": "1779007868",
+          "dark_icon": "https://pub.pbkrs.com/cms/2025/0/SD44PX8ETZYsVW6fwD75L3zxN4YD7oPD/icon.png",
+          "member_badge_id": "6810629589",
+          "current_value": "0",
+          "group_name": "official"
+        }
+      ],
+      "user_region": "CN",
+      "trade_record_authorized": false
+    },
+    "profile_state": {
+      "guide_pop_up": 1,
+      "sign_creator_industry": "",
+      "sign_account_type": "",
+      "sign_industry": "",
+      "sign_company": "",
+      "sign_job_cert_name": "",
+      "sign_edu_school": "",
+      "sign_edu_cert_name": "",
+      "sign_creator_account_cert_name": "",
+      "disable_trends_drawer": 2,
+      "news_featured_user": false,
+      "can_nick_modified": true
+    },
+    "talent": {
+      "id": "100065",
+      "kind": 1,
+      "writer": true,
+      "level": 1,
+      "levelup_progress": 0,
+      "complete_new_plan": false,
+      "new_plan_count": 0
+    },
+    "tabs": {
+      "Course": false,
+      "Live": false,
+      "Purchased": false
+    },
+    "title": {
+      "holding": {
+        "label": "6451304147",
+        "rank": "0.01",
+        "hide_setting": false,
+        "exist": true,
+        "displayable": true
+      },
+      "profit": {
+        "label": "6451304154",
+        "rank": "0.02",
+        "profit": "0",
+        "hide_setting": false,
+        "exist": true,
+        "displayable": true
+      },
+      "cert_Info": null,
+      "invest_style": {
+        "invest_style_grid": 0,
+        "invest_style_description": "",
+        "invest_style_name": "",
+        "invest_scale_name": "",
+        "invest_style_text": "",
+        "invest_scale_text": "",
+        "show_invest_style": 0
+      },
+      "account": {
+        "account_name": "长桥综合账户",
+        "can_switch": true
+      }
+    },
+    "tabs_v2": [
+      {
+        "action": "",
+        "name": "全部"
+      },
+      {
+        "action": "CreateTweet",
+        "name": "讨论"
+      },
+      {
+        "action": "CreatePost",
+        "name": "长文"
+      }
+    ],
+    "member_signs": [
+      {
+        "id": "0",
+        "status": 0,
+        "form": "",
+        "reject_reason": "",
+        "kind": 0,
+        "last_contact_at": "0",
+        "cooperation_intention": ""
+      },
+      {
+        "id": "0",
+        "status": 0,
+        "form": "",
+        "reject_reason": "",
+        "kind": 0,
+        "last_contact_at": "0",
+        "cooperation_intention": ""
+      },
+      {
+        "id": "0",
+        "status": 0,
+        "form": "",
+        "reject_reason": "",
+        "kind": 0,
+        "last_contact_at": "0",
+        "cooperation_intention": ""
+      }
+    ],
+    "ip_region": "",
+    "is_updated_info": true,
+    "profile_settings": {
+      "show_focus_stock": 2,
+      "show_focus_sharelist": 2,
+      "dialect_language": ""
+    },
+    "user_region": ""
+  },
+  "topics_count": {
+    "count": 4027
+  }
+}
